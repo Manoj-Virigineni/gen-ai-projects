@@ -13,3 +13,5 @@ This project solves the problem of brainstorming creative and unique restaurant 
   - Generate a restaurant name based on user preferences or themes.
   - Curate a list of food items aligned with the selected theme or cuisine.
   - Interactive and accessible through a web-based platform.
+
+ ![image](https://github.com/user-attachments/assets/38ec1658-4dbc-4f98-aede-1732fb0593d7)
