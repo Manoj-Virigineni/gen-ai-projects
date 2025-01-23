@@ -14,4 +14,5 @@ This project solves the problem of brainstorming creative and unique restaurant 
   - Curate a list of food items aligned with the selected theme or cuisine.
   - Interactive and accessible through a web-based platform.
 
- ![image](https://github.com/user-attachments/assets/38ec1658-4dbc-4f98-aede-1732fb0593d7)
+ ![image](https://github.com/user-attachments/assets/cf1bb2a0-e322-4ccf-8fe2-7681c84d62d5)
+
