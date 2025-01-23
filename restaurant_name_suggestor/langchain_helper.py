@@ -2,9 +2,12 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
-from secret_key import openapi_key
-
+from dotenv import load_dotenv
 import os
+
+load_dotenv()
+
+openapi_key = os.getenv('OPENAI_KEY')
 os.environ['OPENAI_API_KEY'] = openapi_key
 
 pre_built_llm = OpenAI(temperature = 0.7) # temparature is level of creativity (0-1)
