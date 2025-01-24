@@ -12,3 +12,5 @@ Retail managers, analysts, and stakeholders often need quick access to specific 
 - **Google PaLM**: For advanced natural language processing and query understanding.  
 - **Streamlit**: To create a user-friendly web interface for seamless interaction.  
 - **SQL Database**: As the backend data source for answering user queries.
+
+![image](https://github.com/user-attachments/assets/7b001410-faaa-4e40-8605-20b4a96738d1)
