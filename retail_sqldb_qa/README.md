@@ -9,7 +9,8 @@ Retail managers, analysts, and stakeholders often need quick access to specific 
 ### Technologies Used  
 - **LangChain**: To structure the workflow and integrate with multiple AI components.  
 - **Hugging Face Embeddings**: For embedding queries and database content, enhancing search accuracy.  
-- **Google PaLM**: For advanced natural language processing and query understanding.  
+- **Google PaLM**: For advanced natural language processing and query understanding.
+- **Chroma Vector Database**: To store and retrieve embeddings, enabling efficient semantic similarity searches for natural language queries.  
 - **Streamlit**: To create a user-friendly web interface for seamless interaction.  
 - **SQL Database**: As the backend data source for answering user queries.
 
