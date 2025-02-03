@@ -1,2 +1,4 @@
 restaurant_name_suggestor/.env
 retail_sqldb_qa/.env
+travel_advisor/.env
+customer_support_application/.env
